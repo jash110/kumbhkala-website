@@ -1,0 +1,9 @@
+.env
+node_modules/
+runway api key.txt
+.next/
+frames/
+frames_backup_banner_fix/
+__pycache__/
+*.tsbuildinfo
+.claude/
